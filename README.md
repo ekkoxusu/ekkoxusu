@@ -26,17 +26,21 @@
 
 ## 📊 GitHub 统计 | Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ekkoxusu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165" />
-<img src="https://streak-stats.demolab.com?user=ekkoxusu&theme=tokyonight&hide_border=true" alt="streak" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekkoxusu&theme=tokyonight" alt="stats" height="180" />
+<img src="https://streak-stats.demolab.com?user=ekkoxusu&theme=tokyonight&hide_border=true" alt="streak" height="180" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekkoxusu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs" height="165" />
-<a href="https://github.com/ekkoxusu/Dejavu">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ekkoxusu&repo=Dejavu&theme=tokyonight&hide_border=true" alt="Dejavu" height="165" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekkoxusu&theme=tokyonight" alt="repos per language" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekkoxusu&theme=tokyonight" alt="most commit language" height="180" />
 
-## 🏆 成就 | Trophies
+## 🚀 我的代表作 | Featured Project
 
-<img src="https://github-profile-trophy.vercel.app/?username=ekkoxusu&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="trophies" />
+<h3><a href="https://github.com/ekkoxusu/Dejavu">🎬 Dejavu — 录一次，AI 处处复现</a></h3>
+
+Chrome 扩展 + 通用 AI Skill：把网页上的任何操作录制成标准数据包，交给任意 AI Agent 完整回放。
+
+<img src="https://img.shields.io/github/stars/ekkoxusu/Dejavu?style=flat-square&color=7AA2F7" alt="stars" />
+<img src="https://img.shields.io/github/forks/ekkoxusu/Dejavu?style=flat-square&color=7AA2F7" alt="forks" />
+<img src="https://img.shields.io/github/license/ekkoxusu/Dejavu?style=flat-square&color=7AA2F7" alt="license" />
 
 ## 🐍 贪吃蛇吃掉我的提交 | Snake
 
