@@ -1,0 +1,28 @@
+# 每日生成 3D 贡献图动画，产出 profile-3d-contrib/profile-*.svg
+name: Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "23 3 * * *" # 每天一次，避开整点高峰
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib
+          git commit -m "chore: regenerate 3d contrib [skip ci]" || echo "nothing to commit"
+          git push
