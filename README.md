@@ -2,7 +2,7 @@
 
 <!-- 打字机问候 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1300&color=7AA2F7&center=true&vCenter=true&random=false&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Su+%E6%BA%AF;9+%E5%B9%B4+Java+%E5%90%8E%E7%AB%AF+%C2%B7+%E9%AB%98%E5%B9%B6%E5%8F%91%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7;%F0%9F%8E%AC+Building+Dejavu;AI+%C3%97+Browser+Automation" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1300&color=7AA2F7&center=true&vCenter=true&random=false&width=640&lines=Hi+there+%F0%9F%91%8B+I'm+Su+%E6%BA%AF;9+%E5%B9%B4+Java+%E5%90%8E%E7%AB%AF+%C2%B7+%E9%AB%98%E5%B9%B6%E5%8F%91%E4%B8%8E%E7%A8%B3%E5%AE%9A%E6%80%A7" alt="typing" />
 </a>
 
 <p></p>
