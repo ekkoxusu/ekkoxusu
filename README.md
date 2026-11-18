@@ -17,7 +17,7 @@
 **溯 (Su)** — Java 后端开发，9 年经验，带过 3-8 人技术团队。
 
 - ⚡ 擅长高并发系统设计与稳定性保障，读过 AQS、Redisson、Spring 等源码，对技术保有热情
-- 🤖 AI 工程化探索者：对接过千问、千帆等多家大模型，日常用 Claude Code 提效
+- 🤖 AI 工程化探索者：对接过千问、千帆、DeepSeek、OpenCode等多家大模型，日常用 Claude Code 提效
 - 📫 ekkoxusu@163.com
 
 ## 🧰 技术栈 | Tech Stack
