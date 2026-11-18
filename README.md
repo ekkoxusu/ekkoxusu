@@ -18,7 +18,6 @@
 
 - ⚡ 擅长高并发系统设计与稳定性保障，读过 AQS、Redisson、Spring 等源码，对技术保有热情
 - 🤖 AI 工程化探索者：对接过千问、千帆等多家大模型，日常用 Claude Code 提效
-- 🎬 开源项目 [Dejavu](https://github.com/ekkoxusu/Dejavu) 作者 —— 录一次，AI 处处复现
 - 📫 ekkoxusu@163.com
 
 ## 🧰 技术栈 | Tech Stack
